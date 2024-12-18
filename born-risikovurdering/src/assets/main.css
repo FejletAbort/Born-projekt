@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+}
+.header {
+  font-weight: bold;
+  text-align: center;
+}
+input[type="text"] {
+  width: 100%;
+  box-sizing: border-box;
+}
+input[type="checkbox"] {
+  transform: scale(1.5);
+}
+label {
+  margin-left: 5px;
+}
